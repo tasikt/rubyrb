@@ -1,9 +1,13 @@
 # Rubyrb
 
-https://github.com/radar/guides/blob/master/gem-development.md
+https://github.com/Russell91/pythonpy  
+
+https://github.com/radar/guides/blob/master/gem-development.md  
+
 run tests:
 bundle exec rspec spec
 rake build
+rake install
 rake release
 ## Installation
 

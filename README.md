@@ -3,6 +3,8 @@
 https://github.com/radar/guides/blob/master/gem-development.md
 run tests:
 bundle exec rspec spec
+rake build
+rake release
 ## Installation
 
 Add this line to your application's Gemfile:
